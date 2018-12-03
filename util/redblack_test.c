@@ -24,7 +24,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <time.h>
-#include "redblack.h"
+#include "util/redblack.h"
 
 #include "config.h"
 /* workaround for Solaris + gcc 3.4.x bug (see configure.ac) */

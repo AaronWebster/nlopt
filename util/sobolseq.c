@@ -49,7 +49,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-#include "nlopt-util.h"
+#include "util/nlopt-util.h"
 
 #if defined(HAVE_STDINT_H)
 #  include <stdint.h>
@@ -125,7 +125,7 @@ static int sobol_gen(soboldata *sd, double *x)
      return 1;
 }
 
-#include "soboldata.h"
+#include "util/soboldata.h"
 
 static int sobol_init(soboldata *sd, unsigned sdim)
 {

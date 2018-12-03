@@ -5,7 +5,7 @@
 
 #include <queue>
 //#include "function.h"
-#include "tools.h"
+#include "stogo/tools.h"
 using namespace std;
 
 extern "C" int stogo_verbose;

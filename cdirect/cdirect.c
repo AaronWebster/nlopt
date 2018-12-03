@@ -26,7 +26,7 @@
 
 #include "nlopt-util.h"
 #include "nlopt.h"
-#include "cdirect.h"
+#include "cdirect/cdirect.h"
 #include "redblack.h"
 
 #define MIN(a,b) ((a) < (b) ? (a) : (b))

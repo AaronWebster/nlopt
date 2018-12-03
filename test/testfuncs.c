@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-#include "testfuncs.h"
+#include "test/testfuncs.h"
 #include "config.h"
 
 #define UNUSED(x) (void) x

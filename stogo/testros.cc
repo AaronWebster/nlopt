@@ -1,6 +1,6 @@
-#include "global.h"
-#include "tools.h"
-#include "rosen.h"
+#include "stogo/global.h"
+#include "stogo/tools.h"
+#include "stogo/rosen.h"
 
 int main() {
   int dim=2;

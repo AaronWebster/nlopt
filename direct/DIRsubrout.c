@@ -4,7 +4,7 @@
 */
 
 #include <math.h>
-#include "direct-internal.h"
+#include "direct/direct-internal.h"
 
 /* Table of constant values */
 

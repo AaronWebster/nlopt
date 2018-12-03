@@ -1,6 +1,6 @@
-#include "linalg.h" 
-#include "tools.h"
-#include "stogo_config.h"
+#include "stogo/linalg.h" 
+#include "stogo/tools.h"
+#include "stogo/stogo_config.h"
 
 void Domain_Rosenbrock(RTBox box) {
   box.lb=-10.0 ; box.ub=10.0;

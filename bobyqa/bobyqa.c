@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "bobyqa.h"
+#include "bobyqa/bobyqa.h"
 
 typedef double (*bobyqa_func)(int n, const double *x, void *func_data);
 

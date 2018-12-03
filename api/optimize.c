@@ -24,7 +24,7 @@
 #include <math.h>
 #include <float.h>
 
-#include "nlopt-internal.h"
+#include "api/nlopt-internal.h"
 
 /*********************************************************************/
 

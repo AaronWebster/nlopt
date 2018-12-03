@@ -25,7 +25,7 @@
 #include <string.h>
 #include <stdio.h>
 
-#include "mma.h"
+#include "mma/mma.h"
 #include "nlopt-util.h"
 
 unsigned mma_verbose = 0; /* > 0 for verbose output */

@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-#include "direct.h"
+#include "direct/direct.h"
 #include "nlopt-util.h"
 
 #ifdef __cplusplus

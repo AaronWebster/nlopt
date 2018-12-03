@@ -43,7 +43,7 @@ extern "C" int feenableexcept (int EXCEPTS);
 
 #include "nlopt.h"
 #include "nlopt-util.h"
-#include "testfuncs.h"
+#include "test/testfuncs.h"
 
 static nlopt_algorithm algorithm = NLOPT_GN_DIRECT_L;
 static double ftol_rel = 0, ftol_abs = 0, xtol_rel = 0, xtol_abs = 0, minf_max_delta = -HUGE_VAL;

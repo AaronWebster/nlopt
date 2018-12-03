@@ -47,7 +47,7 @@
    email: m-mat @ math.sci.hiroshima-u.ac.jp (remove space)
 */
 
-#include "nlopt-util.h"
+#include "util/nlopt-util.h"
 
 #if defined(HAVE_STDINT_H)
 #  include <stdint.h>

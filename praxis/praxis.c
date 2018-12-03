@@ -4,7 +4,7 @@
 #include <math.h>
 #include <string.h>
 #include "nlopt-util.h"
-#include "praxis.h"
+#include "praxis/praxis.h"
 
 /* Common Block Declarations */
 

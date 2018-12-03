@@ -23,7 +23,7 @@
 #ifndef NLOPT_INTERNAL_H
 #define NLOPT_INTERNAL_H
 
-#include "nlopt.h"
+#include "api/nlopt.h"
 #include "nlopt-util.h"
 
 #ifdef __cplusplus

@@ -20,7 +20,7 @@
  * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
  */
 
-#include "nlopt-util.h"
+#include "util/nlopt-util.h"
 
 #if TIME_WITH_SYS_TIME
 # include <sys/time.h>

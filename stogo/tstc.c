@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "stogo.h"
+#include "stogo/stogo.h"
 
 /* has two global minima at (0.09,-0.71) and (-0.09,0.71), plus
    4 additional local minima */

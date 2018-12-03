@@ -60,7 +60,7 @@ COMMENTS
 #include <math.h>
 #include <string.h>
 
-#include "subplex.h"
+#include "subplex/subplex.h"
 
 typedef double doublereal;
 typedef int logical;

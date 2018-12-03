@@ -6,7 +6,7 @@
 #include <iostream>
 #include <math.h>         // for sqrt()
 
-#include "linalg.h"
+#include "stogo/linalg.h"
 
 double eps() {
   /* Returns the machine precision : (min { x >= 0 : 1 + x > 1 }) 

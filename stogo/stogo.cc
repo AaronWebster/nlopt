@@ -1,8 +1,8 @@
 // A C-callable front-end to the StoGO global-optimization library.
 //  -- Steven G. Johnson
 
-#include "stogo.h"
-#include "global.h"
+#include "stogo/stogo.h"
+#include "stogo/global.h"
 
 class MyGlobal : public Global {
 protected:

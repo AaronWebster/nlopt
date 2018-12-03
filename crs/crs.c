@@ -23,7 +23,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "crs.h"
+#include "crs/crs.h"
 #include "redblack.h"
 
 /* Controlled Random Search 2 (CRS2) with "local mutation", as defined

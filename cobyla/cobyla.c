@@ -39,7 +39,7 @@ static char const rcsid[] =
 #include <stdio.h>
 #include <math.h>
 
-#include "cobyla.h"
+#include "cobyla/cobyla.h"
 
 /* SGJ, 2008: modified COBYLA code to take explicit account of bound
    constraints.  Since bound constraints are linear, these should

@@ -3,7 +3,7 @@
    f2c output hand-cleaned by SGJ (August 2007).
 */
 
-#include "direct-internal.h"
+#include "direct/direct-internal.h"
 
 /* +-----------------------------------------------------------------------+ */
 /* | Program       : Direct.f (subfile DIRserial.f)                        | */

@@ -22,7 +22,7 @@
 
 #include <stdlib.h>
 #include <string.h>
-#include "esch.h"
+#include "esch/esch.h"
 
 // ---------------------------------------------------------------------------
 // Cauchy random number distribution

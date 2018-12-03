@@ -66,7 +66,7 @@
 #include <string.h>
 
 #include "redblack.h"
-#include "mlsl.h"
+#include "mlsl/mlsl.h"
 
 /* data structure for each random/quasirandom point in the population */
 typedef struct {

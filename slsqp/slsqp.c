@@ -9,7 +9,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "slsqp.h"
+#include "slsqp/slsqp.h"
 
 /*      ALGORITHM 733, COLLECTED ALGORITHMS FROM ACM. */
 /*      TRANSACTIONS ON MATHEMATICAL SOFTWARE, */

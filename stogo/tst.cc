@@ -1,11 +1,11 @@
 #include <unistd.h>
 
-#include "global.h"
-#include "tools.h"
+#include "stogo/global.h"
+#include "stogo/tools.h"
 
-#include "linalg.h" 
-#include "tools.h"
-#include "stogo_config.h"
+#include "stogo/linalg.h" 
+#include "stogo/tools.h"
+#include "stogo/stogo_config.h"
 
 void Domain_Mine(RTBox box) {
   box.lb=-3.0 ; box.ub=3.0;

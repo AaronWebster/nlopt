@@ -26,7 +26,7 @@
 
 #include "nlopt-util.h"
 #include "nlopt.h"
-#include "cdirect.h"
+#include "cdirect/cdirect.h"
 #include "redblack.h"
 
 /* Hybrid algorithm, inspired by DIRECT, that uses another local

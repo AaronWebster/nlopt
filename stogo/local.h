@@ -5,8 +5,8 @@
 #ifndef LOCAL_H
 #define LOCAL_H
 
-#include "tools.h"
-#include "global.h"
+#include "stogo/tools.h"
+#include "stogo/global.h"
 
 extern int FC, GC ;
 

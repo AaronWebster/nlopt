@@ -24,7 +24,7 @@
 #include <string.h>
 #include <stdio.h>
 #include <stdarg.h>
-#include "nlopt-util.h"
+#include "util/nlopt-util.h"
 
 /* utility routines to implement the various stopping criteria */
 

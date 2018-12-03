@@ -11,7 +11,7 @@
 #include <iterator>
 #include <list>
 
-#include "linalg.h"
+#include "stogo/linalg.h"
 
 #ifndef FALSE
 const int FALSE=(1==0); // boolean FALSE

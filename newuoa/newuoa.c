@@ -30,7 +30,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#include "newuoa.h"
+#include "newuoa/newuoa.h"
 
 #define MIN2(a,b) ((a) <= (b) ? (a) : (b))
 #define MAX2(a,b) ((a) >= (b) ? (a) : (b))

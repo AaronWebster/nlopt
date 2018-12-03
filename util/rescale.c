@@ -21,7 +21,7 @@
  */
 
 #include <stdlib.h>
-#include "nlopt-util.h"
+#include "util/nlopt-util.h"
 
 /* Return a new array of length n (> 0) that gives a rescaling factor
    for each dimension, or NULL if out of memory, with dx being the

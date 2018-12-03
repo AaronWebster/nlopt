@@ -2,8 +2,8 @@
 #include <float.h>
 #include <iostream>
 
-#include "stogo_config.h"
-#include "tools.h"
+#include "stogo/stogo_config.h"
+#include "stogo/tools.h"
 
 Trial::Trial():xvals(0) {
   objval=DBL_MAX;

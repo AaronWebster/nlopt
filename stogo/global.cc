@@ -15,9 +15,9 @@
 #include <algorithm>
 #include <stack>
 
-#include "stogo_config.h"
-#include "global.h"
-#include "local.h"
+#include "stogo/stogo_config.h"
+#include "stogo/global.h"
+#include "stogo/local.h"
 #include "nlopt-util.h"
 
 // Timer stuff

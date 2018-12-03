@@ -24,7 +24,7 @@
 #include <math.h>
 #include <string.h>
 
-#include "isres.h"
+#include "isres/isres.h"
 
 /* Improved Stochastic Ranking Evolution Strategy (ISRES) algorithm
    for nonlinearly-constrained global optimization, based on

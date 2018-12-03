@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdio.h>
 
-#include "auglag.h"
+#include "auglag/auglag.h"
 
 int auglag_verbose = 0;
 

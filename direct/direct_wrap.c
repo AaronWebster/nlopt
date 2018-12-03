@@ -1,6 +1,6 @@
 /* C-style API for DIRECT functions.  SGJ (August 2007). */
 
-#include "direct-internal.h"
+#include "direct/direct-internal.h"
 
 /* Perform global minimization using (Gablonsky implementation of) DIRECT
    algorithm.   Arguments:

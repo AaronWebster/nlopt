@@ -27,7 +27,7 @@
 #include <float.h>
 #include <stdarg.h>
 
-#include "nlopt-internal.h"
+#include "api/nlopt-internal.h"
 
 #define ERR(err, opt, msg) (nlopt_set_errmsg(opt, msg) ? err : err)
 

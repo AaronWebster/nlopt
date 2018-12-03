@@ -25,7 +25,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#include "neldermead.h"
+#include "neldermead/neldermead.h"
 
 /* subplex strategy constants: */
 static const double psi = 0.25, omega = 0.1;

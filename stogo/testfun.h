@@ -1,9 +1,9 @@
 #ifndef TESTFUN_H
 #define TESTFUN_H
 
-#include "linalg.h"
-#include "tools.h"
-#include "stogo_config.h"
+#include "stogo/linalg.h"
+#include "stogo/tools.h"
+#include "stogo/stogo_config.h"
 
 const double pi=fabs(acos(-1.));
 

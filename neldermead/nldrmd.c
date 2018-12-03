@@ -24,7 +24,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "neldermead.h"
+#include "neldermead/neldermead.h"
 #include "redblack.h"
 
 /* Nelder-Mead simplex algorithm, used as a subroutine for the Rowan's

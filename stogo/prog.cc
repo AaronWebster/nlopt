@@ -2,9 +2,9 @@
 	A simple program to test the global optimizer.
 */
 
-#include "global.h"
-#include "tools.h"
-#include "testfun.h"
+#include "stogo/global.h"
+#include "stogo/tools.h"
+#include "stogo/testfun.h"
 
 #define STRLEN_MAX 80
 

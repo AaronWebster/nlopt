@@ -6,10 +6,10 @@
 #include <iostream>
 #include <stdlib.h>
 
-#include "stogo_config.h"
-#include "global.h"
-#include "local.h"
-#include "tools.h"
+#include "stogo/stogo_config.h"
+#include "stogo/global.h"
+#include "stogo/local.h"
+#include "stogo/tools.h"
 
 #ifdef NLOPT_UTIL_H
 #  define IF_NLOPT_CHECK_EVALS stop->nevals++; \

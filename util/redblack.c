@@ -24,7 +24,7 @@
 
 #include <stddef.h>
 #include <stdlib.h>
-#include "redblack.h"
+#include "util/redblack.h"
 
 /* it is convenient to use an explicit node for NULL nodes ... we need
    to be careful never to change this node indirectly via one of our

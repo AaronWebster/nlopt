@@ -1,5 +1,5 @@
 #include <math.h>
-#include "luksan.h"
+#include "luksan/luksan.h"
 
 #define MAX2(a,b) ((a) > (b) ? (a) : (b))
 #define iabs(a) ((a) < 0 ? -(a) : (a))
