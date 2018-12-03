@@ -26,7 +26,7 @@ build the latest development sources:
 (To build from git, you will need GNU autoconf, automake, and libtool
 installed, along with SWIG and Unix tools such as m4, perl, and sed.)
 
-Once it is installed, `#include <nlopt.h>` in your C/C++ programs and
+Once it is installed, `#include "nlopt.h"` in your C/C++ programs and
 link it with `-lnlopt -lm`.  You may need to use the C++ compiler to link
 in order to include the C++ libraries (which are used internally by NLopt,
 even though it has a C API).

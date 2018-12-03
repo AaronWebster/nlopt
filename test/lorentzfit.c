@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-#include <nlopt.h>
+#include "nlopt.h"
 
 typedef struct {
      int N;

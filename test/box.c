@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-#include <nlopt.h>
+#include "nlopt.h"
 
 /****************************************************************************/
 /* test function from M. J. Box, "A new method of constrained optimization
